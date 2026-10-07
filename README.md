@@ -207,8 +207,7 @@ The actual execution performance depends on the graph structure and selected goa
 
 Clone the repository:
 
-git clone https://github.com/juishinde136-arch/IAI_SLE2_BFS_DFS.git
-
+https://github.com/pranalinandkishormore/IAI_SLE3
 Move into the project directory:
 
 cd IAI_SLE2_BFS_DFS
@@ -241,4 +240,4 @@ The project demonstrates the practical application of graph search algorithms an
 
 GitHub Repository:
 
-https://github.com/juishinde136-arch/IAI_SLE2_BFS_DFS 
+https://github.com/pranalinandkishormore/IAI_SLE3
