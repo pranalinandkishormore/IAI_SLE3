@@ -1,0 +1,87 @@
+Project: Empirical Performance Analysis of BFS and DFS
+
+Course: Introduction to Artificial Intelligence
+Course Code: 02AML204
+Student: Pranali Nandkishor More
+PRN: 25UAM132
+Division: B
+
+Contribution Summary
+
+Sr. No.| Task| Contribution
+1| Project Setup| Created the project repository and basic project structure
+2| BFS Implementation| Implemented Breadth-First Search using queue and visited set
+3| DFS Implementation| Implemented Depth-First Search using stack and visited set
+4| Graph Structure| Created and used the adjacency-list graph structure
+5| Benchmarking| Implemented execution-time measurement and nodes-expanded counting
+6| Performance Analysis| Compared minimum, average, and maximum execution time
+7| Profiling| Prepared BFS and DFS profiling scripts
+8| Profiling Results| Generated "bfs_profile.svg" and "dfs_profile.svg"
+9| Documentation| Created README documentation and project explanation
+10| GitHub Management| Updated, committed, and pushed project files to GitHub
+
+Files and Their Contribution
+
+"bfs.py"
+
+Contains the Breadth-First Search algorithm using a queue and visited set.
+
+"dfs.py"
+
+Contains the Depth-First Search algorithm using a stack and visited set.
+
+"bfs_for_pyspy.py"
+
+Contains the BFS execution code prepared for profiling.
+
+"dfs_for_pyspy.py"
+
+Contains the DFS execution code prepared for profiling.
+
+"profile_bfs.py"
+
+Measures and profiles the performance of BFS.
+
+"profile_dfs.py"
+
+Measures and profiles the performance of DFS.
+
+"bfs_profile.svg"
+
+Stores the generated BFS profiling visualization.
+
+"dfs_profile.svg"
+
+Stores the generated DFS profiling visualization.
+
+"README.md"
+
+Provides project description, objectives, algorithms, execution steps, file structure, and conclusion.
+
+".gitignore"
+
+Contains files and folders that should not be tracked by Git.
+
+Development Workflow
+
+Project Setup
+     ↓
+Graph Creation
+     ↓
+BFS Implementation
+     ↓
+DFS Implementation
+     ↓
+Benchmarking
+     ↓
+Profiling
+     ↓
+Performance Comparison
+     ↓
+Documentation
+     ↓
+GitHub Repository Update
+
+Final Contribution
+
+The project was developed and documented as an empirical performance analysis of BFS and DFS. The implementation, benchmarking, profiling, documentation, and GitHub repository management were completed as part of the SLE-2 activity.
